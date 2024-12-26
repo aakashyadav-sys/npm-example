@@ -1,0 +1,23 @@
+{
+  "name": "example-hello-sample-demo-testing",
+  "version": "1.0.0",
+  "description": "Example npm Hello World of NPM ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aakashyadav-sys/npm-example.git"
+  },
+  "keywords": [
+    "NPM",
+    "Tutorial"
+  ],
+  "author": "Aakash Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aakashyadav-sys/npm-example/issues"
+  },
+  "homepage": "https://github.com/aakashyadav-sys/npm-example#readme"
+}
